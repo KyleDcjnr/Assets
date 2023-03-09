@@ -8,7 +8,6 @@
 
 .bg{
     background-image: linear-gradient(rgba(0, 0, 225, 0.45), rgba(0, 0, 225, 0.45)), url(./Images/christina-wocintechchat-com-IxmHiUC-yOw-unsplash.jpg);
-    height: 100vh;
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -33,9 +32,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .links{
-    display: flex;
-    gap: 50px;
+    /* display: flex; */
+    /* gap: 50px; */
     /* padding-right: 50px; */
+}
+a{
+    /* display: block; */
+    padding-left: 50px;
 }
 
 .content{
@@ -65,3 +68,4 @@ button{
     font-family: serif;
     height: 40px;
 }
+
