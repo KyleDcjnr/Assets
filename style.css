@@ -9,6 +9,7 @@
 .bg{
     background-image: linear-gradient(rgba(0, 0, 225, 0.45), rgba(0, 0, 225, 0.45)), url(./Images/christina-wocintechchat-com-IxmHiUC-yOw-unsplash.jpg);
     width: 100%;
+    height: 100vh;
     background-position: center;
     background-size: cover;
 }
